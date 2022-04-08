@@ -1,6 +1,6 @@
 ### Hi there, I'm Roman Surikov 👋
 
-I am a [top rated startup consultant](https://www.upwork.com/freelancers/~01446c5dc904a1e9d6) and project manager with more than 15 years experience in IT field. My main goal is to define the shortest and stress-free way to launch your product without incurring extra expenses.  I started my career as a developer, but at some point had an opportunity to work as a DevOps, a project and product manager, and a UX consultant. 
+I am a [top rated startup consultant](https://www.upwork.com/freelancers/~01446c5dc904a1e9d6) and project manager with more than 15 years experience in IT field. I help to define the shortest and stress-free way to launch your product without incurring extra expenses.  I started my career as a developer, but at some point had an opportunity to work as a DevOps, a project and product manager, and a UX consultant. 
 
 It allows me to look at the project from different angles and understand common problems inside and out. My unique experience includes working with startups on pre-seed and seed funding stages.  
 
